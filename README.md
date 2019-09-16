@@ -1,5 +1,7 @@
 ## Galapagos PBMC clustering example (Python)
 
+* [PBMC clustering example (NBviewer)](https://nbviewer.jupyter.org/github/flo-compbio/galapagos-examples/blob/master/PBMC%20clustering%20example.ipynb)
+
 This repository contains a Python electronic notebook demonstrating the application of the Galapagos clustering workflow to single-cell RNA-Seq PBMC data.
 
 The PBMC dataset analyzed (`pbmc_v3_10k_expression.npz`) is contained within this reposistory, in the "data" folder.
